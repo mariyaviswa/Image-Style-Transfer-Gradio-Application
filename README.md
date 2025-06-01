@@ -70,14 +70,14 @@ This project leverages deep learning techniques to bring artistic creativity to 
 <h2>Sample Output</h2>
 <br>
 <br>
-   <img src="https://github.com/mariyaviswa/Image_Style_Transfer_Streamlit/blob/master/sample_output%20(1).png">
+   <img src="https://github.com/mariyaviswa/Image-Style-Transfer-Gradio-Application/blob/main/User_Interface.png">
    <br>
    <br>
-   <img src="https://github.com/mariyaviswa/Image_Style_Transfer_Streamlit/blob/master/sample_output%20(2).png">
+   <img src="https://github.com/mariyaviswa/Image-Style-Transfer-Gradio-Application/blob/main/User_Interface1.png">
 <h2> Downloaded Image </h2>
    <br>
    <br>
-   <img src="https://github.com/mariyaviswa/Image_Style_Transfer_Streamlit/blob/master/sample_output%20(1).jpg">
+   <img src="https://github.com/mariyaviswa/Image-Style-Transfer-Gradio-Application/blob/main/result_image.jpg">
 
 
    
