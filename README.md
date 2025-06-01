@@ -1,6 +1,6 @@
 <h1>Image Style Transfer</h1>
 <p align = "justify">
-Developed an image-style transfer app using Python and Streamlit. It lets users upload images and apply artistic styles using deep learning. 
+Developed an image-style transfer app using Vision Transformer, VGG16, Python and Gradio. It lets users upload images and apply artistic styles using deep learning. 
 The app provides an interactive, user-friendly interface for real-time style transfer results.
 
 The app allows users to upload both input and style images. Once the images are uploaded, the app processes them, displaying a loading animation until the style transfer is complete. 
@@ -39,30 +39,23 @@ This project leverages deep learning techniques to bring artistic creativity to 
              pip install -r requirements.txt
          </code>
        </pre>
-3. Move to neural_style Folder or directory
+3. Run the <b>app.py</b> file
    <br>
    <br>
-   After running the <b>download_saved_models.py</b>, will see the <b>saved_models.zip</b> in the current folder,
-   unzip the folder, and move to the neural_style folder.
-   <br>
-   <br>
-4. Run the <b>main.py</b> file
-   <br>
-   <br>
-   Before run the <b>main.py</b> file change the directory
+   Before run the <b>app.py</b> file change the directory
    <br>
    <br>
        <pre>
          <code>
-             cd neural_style
+             cd style_transfer
          </code>
        </pre>
-   Then run the <b>main.py</b> file
+   Then run the <b>app.py</b> file
    <br>
    <br>
        <pre>
          <code>
-             streamlit run main.py
+             python app.py
          </code>
        </pre>
      
