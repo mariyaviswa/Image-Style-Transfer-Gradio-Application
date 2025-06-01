@@ -60,7 +60,7 @@ This project leverages deep learning techniques to bring artistic creativity to 
        </pre>
      
 
-<h2>Sample Output</h2>
+<h2>User Interface and Output</h2>
 <br>
 <br>
    <img src="https://github.com/mariyaviswa/Image-Style-Transfer-Gradio-Application/blob/main/User_Interface.png">
